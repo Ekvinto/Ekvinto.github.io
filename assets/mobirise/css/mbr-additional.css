@@ -732,18 +732,18 @@ a {
   background-color: #ffffff;
 }
 .cid-sTc8wlcmqg .bg-researchgate {
-  background: #1778f2;
+  background: #0cb;
   color: #ffffff;
 }
 .cid-sTc8wlcmqg .bg-researchgate:hover {
-  background: #0b60cb;
+  background: #0a9;
 }
 .cid-sTc8wlcmqg .bg-googlescholar {
-  background: #1da1f2;
+  background: #aaa;
   color: #ffffff;
 }
 .cid-sTc8wlcmqg .bg-googlescholar:hover {
-  background: #0c85d0;
+  background: #888;
 }
 .cid-sTc8wlcmqg .bg-linkedin {
   background: #0077b5;
@@ -760,11 +760,11 @@ a {
   background: #000000;
 }
 .cid-sTc8wlcmqg .bg-github {
-  background: #9146ff;
+  background: #000000;
   color: #ffffff;
 }
 .cid-sTc8wlcmqg .bg-github:hover {
-  background: #7313ff;
+  background: #000000;
 }
 .cid-sTc8wlcmqg .iconfont-wrapper {
   display: inline-block;
